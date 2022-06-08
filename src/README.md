@@ -1,0 +1,12 @@
+TODO:
+- Dev environment composer
+- Prettier console
+- Mobile-only stuff
+- Better jenkins/docker deployment?
+- Adjust for load balancing & Least load
+- K8S AWS Auto deploy
+- Add psql on node
+- Age?
+- Github webhook on jenkins
+- Code cleanup
+- Git cleanup
